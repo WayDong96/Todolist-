@@ -1,6 +1,4 @@
-Given tables: 
-● tasks (id, name, status, project_id)
-● projects (id, name)
+Задание по SQL
 
 1. get all statuses, not repeating, alphabetically ordered
 SELECT DISTINCT status
